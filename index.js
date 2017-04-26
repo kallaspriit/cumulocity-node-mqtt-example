@@ -1,6 +1,6 @@
 import mqtt from 'mqtt';
 
-// Ccmulocity MQTT configuration
+// cumulocity MQTT configuration
 const config = {
 	protocol: 'tcp',
 	host: 'example.cumulocity.com', // change me!

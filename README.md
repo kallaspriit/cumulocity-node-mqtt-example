@@ -1,4 +1,4 @@
-# cumulocity-node-mqtt-example
+# Cumulocity node.js MQTT protocol example client
 **Minimalistic node.js application performing initial credentials request and periodically reporting measurements.**
 
 ## Running

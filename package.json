@@ -1,0 +1,22 @@
+{
+  "name": "node-cumulocity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-sl": "^3.0.0",
+    "mqtt": "^2.6.2"
+  },
+  "dependencies": {
+  }
+}
